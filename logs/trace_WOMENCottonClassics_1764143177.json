@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 2751.01,
+    "spend_prev": 3987.87,
+    "ctr_change": -0.07287192050439031
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "16aa11e8-77cb-40d5-b105-952813dc4d98",
+      "suggestion": "Limited time: women, bras, no. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['women', 'bras', 'no']"
+    },
+    {
+      "variant_id": "3cf92bfe-93b6-4818-a0ca-3a2808793523",
+      "suggestion": "Discover women, bras, no that fits you. Buy today",
+      "rationale": "Using top keywords: ['women', 'bras', 'no']"
+    }
+  ]
+}

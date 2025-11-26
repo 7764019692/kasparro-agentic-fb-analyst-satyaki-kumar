@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 1917.2500000000002,
+    "spend_prev": 4215.9,
+    "ctr_change": 0.29546122828616017
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "1cb58bb8-2c81-4f7b-816b-3cc29dd4f87b",
+      "suggestion": "Limited time: men, inner, vests. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['men', 'inner', 'vests']"
+    },
+    {
+      "variant_id": "4b24ec7f-73e1-4d48-ae29-9dc4981139f0",
+      "suggestion": "Discover men, inner, vests that fits you. Buy today",
+      "rationale": "Using top keywords: ['men', 'inner', 'vests']"
+    }
+  ]
+}

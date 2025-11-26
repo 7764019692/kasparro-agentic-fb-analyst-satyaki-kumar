@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 613.96,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "1336fe68-4b2e-427b-8280-163677fd0afa",
+      "suggestion": "Limited time: that, men, athletic. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['that', 'men', 'athletic']"
+    },
+    {
+      "variant_id": "dc4ea925-fa19-494a-ac03-97e4bbf609c6",
+      "suggestion": "Discover that, men, athletic that fits you. Buy today",
+      "rationale": "Using top keywords: ['that', 'men', 'athletic']"
+    }
+  ]
+}

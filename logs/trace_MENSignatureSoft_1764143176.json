@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 4919.240000000001,
+    "spend_prev": 2814.6899999999996,
+    "ctr_change": 0.21044810825690882
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "650faece-e6bb-4137-bc24-a1dddfd103a9",
+      "suggestion": "Limited time: men, briefs, boxers. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['men', 'briefs', 'boxers']"
+    },
+    {
+      "variant_id": "19631b83-8db4-4e6d-acd0-9da65fffc608",
+      "suggestion": "Discover men, briefs, boxers that fits you. Buy today",
+      "rationale": "Using top keywords: ['men', 'briefs', 'boxers']"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "ROAS dropped significantly",
+      "reasoning": "ROAS decreased by -25.28%",
+      "confidence": 0.9528420483455272,
+      "evidence": {
+        "last_mean": 2.9478304015612347,
+        "prev_mean": 3.94539119243332,
+        "pct_change": -0.2528420483455273
+      }
+    }
+  ],
+  "metrics": {
+    "spend_last": 4113.29,
+    "spend_prev": 4238.95,
+    "ctr_change": -0.08120885669926242
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "043fc004-5834-45ad-a7be-253a56996acf",
+      "suggestion": "Limited time: men, briefs, athletic. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['men', 'briefs', 'athletic']"
+    },
+    {
+      "variant_id": "7c425c92-8b06-4210-8bcf-6644f2c15725",
+      "suggestion": "Discover men, briefs, athletic that fits you. Buy today",
+      "rationale": "Using top keywords: ['men', 'briefs', 'athletic']"
+    }
+  ]
+}

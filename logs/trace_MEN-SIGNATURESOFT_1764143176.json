@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 1291.57,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "3ba87e1e-15d2-45af-959b-bcef351b3f4e",
+      "suggestion": "Limited time: pack, deal, ends. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['pack', 'deal', 'ends']"
+    },
+    {
+      "variant_id": "abca1c0e-127e-4951-a790-cd8e4c934676",
+      "suggestion": "Discover pack, deal, ends that fits you. Buy today",
+      "rationale": "Using top keywords: ['pack', 'deal', 'ends']"
+    }
+  ]
+}

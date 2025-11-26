@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 644.36,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "d2e74ebb-92a4-4ca5-aa3c-c12d223f2101",
+      "suggestion": "Limited time: seamless, confidence, for. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['seamless', 'confidence', 'for']"
+    },
+    {
+      "variant_id": "ffc0d51e-dedc-4c7f-800d-5c61e7e86113",
+      "suggestion": "Discover seamless, confidence, for that fits you. Buy today",
+      "rationale": "Using top keywords: ['seamless', 'confidence', 'for']"
+    }
+  ]
+}

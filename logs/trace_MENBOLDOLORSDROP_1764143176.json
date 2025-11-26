@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 728.66,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "f4170a67-c3f3-4154-b190-3ad3e49bc87a",
+      "suggestion": "Limited time: push, comfort, not. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['push', 'comfort', 'not']"
+    },
+    {
+      "variant_id": "77fa3962-bbe0-4edf-b791-23e97b00cb43",
+      "suggestion": "Discover push, comfort, not that fits you. Buy today",
+      "rationale": "Using top keywords: ['push', 'comfort', 'not']"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+pandas
+numpy
+"""
+├── src/
+│ ├── run.py # Main orchestrator
+│ ├── agents/
+│ │ ├── data_agent.py # Loads & aggregates dataset
+│ │ ├── planner.py # Extracts plan from query
+│ │ ├── insight_agent.py # Generates insights
+│ │ ├── evaluator.py # Validates hypotheses
+│ │ └── creative_generator.py # Produces creative variants
+│
+├── data/
+│ └── synthetic_fb_ads_undergarments.csv # Provided dataset
+│
+├── reports/
+│ ├── insights.json # Final insights
+│ ├── creatives.json # Generated creative ideas
+│ └── report.md # Overall summary report
+│
+├── logs/
+│ └── trace_<campaign>_<timestamp>.json # Agent-by-agent trace logs
+│
+├── requirements.txt
+├── README.md
+└── v1.0 Release Tag
+
+
+---
+
+## ⚙️ Installation & Setup
+"""

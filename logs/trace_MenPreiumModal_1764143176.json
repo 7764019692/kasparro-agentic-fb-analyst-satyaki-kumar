@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 215.29,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "bebc32ba-5937-4134-93cb-06d29a96f403",
+      "suggestion": "Limited time: breathable, cotton, that. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['breathable', 'cotton', 'that']"
+    },
+    {
+      "variant_id": "0e608bc0-0b34-4856-a19c-426177d300ea",
+      "suggestion": "Discover breathable, cotton, that that fits you. Buy today",
+      "rationale": "Using top keywords: ['breathable', 'cotton', 'that']"
+    }
+  ]
+}

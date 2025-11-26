@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 398.77,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "d992e864-26c1-46c1-9cbf-7fab4d880492",
+      "suggestion": "Limited time: doctors, recommend, breathable. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['doctors', 'recommend', 'breathable']"
+    },
+    {
+      "variant_id": "39e7f536-4a95-4652-ae87-49147dcd8e10",
+      "suggestion": "Discover doctors, recommend, breathable that fits you. Buy today",
+      "rationale": "Using top keywords: ['doctors', 'recommend', 'breathable']"
+    }
+  ]
+}

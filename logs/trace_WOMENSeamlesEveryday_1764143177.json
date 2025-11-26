@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 263.73,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "eb753abf-d89c-4dc3-bed2-4afb4610f7aa",
+      "suggestion": "Limited time: no, ride, up. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['no', 'ride', 'up']"
+    },
+    {
+      "variant_id": "d5af789c-d108-47b9-bb54-2a05c8ebdfe6",
+      "suggestion": "Discover no, ride, up that fits you. Buy today",
+      "rationale": "Using top keywords: ['no', 'ride', 'up']"
+    }
+  ]
+}

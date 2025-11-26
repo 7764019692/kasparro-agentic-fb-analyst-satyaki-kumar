@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 712.73,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "c9d64171-f664-4a83-9cc2-dc7f5451753d",
+      "suggestion": "Limited time: summer, ready, essentials. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['summer', 'ready', 'essentials']"
+    },
+    {
+      "variant_id": "73626011-1f04-4866-bf8b-46eb9c18b24d",
+      "suggestion": "Discover summer, ready, essentials that fits you. Buy today",
+      "rationale": "Using top keywords: ['summer', 'ready', 'essentials']"
+    }
+  ]
+}

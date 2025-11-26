@@ -1,0 +1,31 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+      "reasoning": "CTR decreased by -20.02%",
+      "confidence": 0.8202443674331835,
+      "evidence": {
+        "ctr_last": 0.013144405247269472,
+        "ctr_prev": 0.016435527193884032,
+        "ctr_change": -0.20024436743318347
+      }
+    }
+  ],
+  "metrics": {
+    "spend_last": 2063.1,
+    "spend_prev": 5257.44,
+    "ctr_change": -0.20024436743318347
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "7d87af80-583c-41ce-a844-2165c852629b",
+      "suggestion": "Limited time: men, briefs, boxers. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['men', 'briefs', 'boxers']"
+    },
+    {
+      "variant_id": "ae2f61db-aa42-472d-8800-e24dc0351439",
+      "suggestion": "Discover men, briefs, boxers that fits you. Buy today",
+      "rationale": "Using top keywords: ['men', 'briefs', 'boxers']"
+    }
+  ]
+}

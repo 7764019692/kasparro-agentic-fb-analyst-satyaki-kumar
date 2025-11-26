@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 297.34,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "fb1f61f7-3e9b-4253-b431-d8d984488eaa",
+      "suggestion": "Limited time: cooling, mesh, panels. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['cooling', 'mesh', 'panels']"
+    },
+    {
+      "variant_id": "bea0ba2b-7807-4607-9415-460dc2067ff3",
+      "suggestion": "Discover cooling, mesh, panels that fits you. Buy today",
+      "rationale": "Using top keywords: ['cooling', 'mesh', 'panels']"
+    }
+  ]
+}

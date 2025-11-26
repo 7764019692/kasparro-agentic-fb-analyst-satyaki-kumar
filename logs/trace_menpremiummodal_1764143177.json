@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 2569.4700000000003,
+    "spend_prev": 3537.11,
+    "ctr_change": 0.02862375386871148
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "0c15f731-11e6-4b3a-916b-90505e200a03",
+      "suggestion": "Limited time: men, briefs, athletic. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['men', 'briefs', 'athletic']"
+    },
+    {
+      "variant_id": "5287d7ce-0848-43a1-aa2d-755affed6ebe",
+      "suggestion": "Discover men, briefs, athletic that fits you. Buy today",
+      "rationale": "Using top keywords: ['men', 'briefs', 'athletic']"
+    }
+  ]
+}

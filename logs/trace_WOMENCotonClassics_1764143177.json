@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 638.73,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "12ee9018-3a25-4a5d-bead-6aef7065102c",
+      "suggestion": "Limited time: women, bras, pack. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['women', 'bras', 'pack']"
+    },
+    {
+      "variant_id": "a6151a46-52ea-432e-a25f-b91ed43233ce",
+      "suggestion": "Discover women, bras, pack that fits you. Buy today",
+      "rationale": "Using top keywords: ['women', 'bras', 'pack']"
+    }
+  ]
+}

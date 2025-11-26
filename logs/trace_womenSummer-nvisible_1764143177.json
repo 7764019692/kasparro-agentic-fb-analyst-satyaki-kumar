@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 349.78,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "54bffd3a-4d0b-4628-bae1-1f9a99061f73",
+      "suggestion": "Limited time: confidence, starts, inside. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['confidence', 'starts', 'inside']"
+    },
+    {
+      "variant_id": "6e18c27a-fbe7-4def-8b56-d856aac076fb",
+      "suggestion": "Discover confidence, starts, inside that fits you. Buy today",
+      "rationale": "Using top keywords: ['confidence', 'starts', 'inside']"
+    }
+  ]
+}

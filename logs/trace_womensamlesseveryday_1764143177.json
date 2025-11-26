@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 1335.58,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "64a3533f-465b-44d2-ac35-98a330db50b4",
+      "suggestion": "Limited time: with, women, bras. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['with', 'women', 'bras']"
+    },
+    {
+      "variant_id": "da0e8889-d1e3-42c2-b36d-af8bc67a2586",
+      "suggestion": "Discover with, women, bras that fits you. Buy today",
+      "rationale": "Using top keywords: ['with', 'women', 'bras']"
+    }
+  ]
+}

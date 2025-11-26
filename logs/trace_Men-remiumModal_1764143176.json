@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 301.88,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "1b018338-8bfa-4b17-9ae7-3d15ec206717",
+      "suggestion": "Limited time: breathable, modal, that. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['breathable', 'modal', 'that']"
+    },
+    {
+      "variant_id": "81fd0c68-9c39-4f5a-aa37-7258082c8420",
+      "suggestion": "Discover breathable, modal, that that fits you. Buy today",
+      "rationale": "Using top keywords: ['breathable', 'modal', 'that']"
+    }
+  ]
+}

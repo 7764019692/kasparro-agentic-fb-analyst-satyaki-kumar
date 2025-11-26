@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 245.65,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "16369421-b44b-4fc7-9eac-4bfba40ba102",
+      "suggestion": "Limited time: stretch, that, snaps. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['stretch', 'that', 'snaps']"
+    },
+    {
+      "variant_id": "15fb9541-8266-4598-9094-3cad447c2d8d",
+      "suggestion": "Discover stretch, that, snaps that fits you. Buy today",
+      "rationale": "Using top keywords: ['stretch', 'that', 'snaps']"
+    }
+  ]
+}

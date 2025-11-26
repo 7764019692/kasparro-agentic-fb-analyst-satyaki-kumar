@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 135.29,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "0f1ba2b1-6b07-4bf3-bc7b-33083bfba173",
+      "suggestion": "Limited time: invisible, under, tees. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['invisible', 'under', 'tees']"
+    },
+    {
+      "variant_id": "a25eb987-7537-407e-a81b-9e4879ba367f",
+      "suggestion": "Discover invisible, under, tees that fits you. Buy today",
+      "rationale": "Using top keywords: ['invisible', 'under', 'tees']"
+    }
+  ]
+}

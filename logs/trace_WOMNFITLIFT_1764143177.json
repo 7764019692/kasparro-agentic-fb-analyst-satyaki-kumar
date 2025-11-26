@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 656.5699999999999,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "76c8c2aa-ef43-40ae-adae-88988251581a",
+      "suggestion": "Limited time: women, you, cooling. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['women', 'you', 'cooling']"
+    },
+    {
+      "variant_id": "cd2d6e70-911e-42c5-85cd-b3a75c266b4a",
+      "suggestion": "Discover women, you, cooling that fits you. Buy today",
+      "rationale": "Using top keywords: ['women', 'you', 'cooling']"
+    }
+  ]
+}

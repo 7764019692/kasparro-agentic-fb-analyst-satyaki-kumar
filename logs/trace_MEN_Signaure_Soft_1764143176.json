@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 0.0,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "e19cac0b-b751-4a6e-b5f4-2916d15adaf4",
+      "suggestion": "Limited time: wire, free, ease. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['wire', 'free', 'ease']"
+    },
+    {
+      "variant_id": "3cce070c-2828-477f-be1c-9d33f44a148e",
+      "suggestion": "Discover wire, free, ease that fits you. Buy today",
+      "rationale": "Using top keywords: ['wire', 'free', 'ease']"
+    }
+  ]
+}

@@ -1,0 +1,5832 @@
+[
+  {
+    "campaign_name": " OMEN  Cotton  Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 200.7,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": " OMEN COTTON CLASSICS",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 394.93,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": " en Premium Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 730.44,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": " omen Summer Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 406.35,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "-EN Signature Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 285.83,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "-omen summer invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 340.62,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "-omen-Studio Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 149.07,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "-omen_|_Studio_Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 135.68,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "M-n Bold Colors Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 929.05,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "ME  Signature Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 560.52,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "ME- PREMIUM MODAL",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 444.45,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN  Si-nature  Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 979.15,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN  Signature  Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -30.78%",
+        "confidence": 0.9278224570924982,
+        "evidence": {
+          "ctr_last": 0.011165605212353633,
+          "ctr_prev": 0.016131129411212624,
+          "ctr_change": -0.3078224570924982
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 3880.39,
+      "spend_prev": 3708.8300000000004,
+      "ctr_change": -0.3078224570924982
+    }
+  },
+  {
+    "campaign_name": "MEN  Signture  Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 448.31,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN -ignature Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1435.17,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN B LD COLORS DROP",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 89.03,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN BLD COLORS DROP",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 248.65,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN BOL COLORS DROP",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 388.09,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN BOLD  OLORS DROP",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 728.66,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN BOLD COL RS DROP",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 656.16,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN BOLD COLORS DROP",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -37.53%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 2.2026201009544746,
+          "prev_mean": 3.5261229602275606,
+          "pct_change": -0.37534223106398157
+        }
+      },
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -15.86%",
+        "confidence": 0.7785799572686806,
+        "evidence": {
+          "ctr_last": 0.008409810162668976,
+          "ctr_prev": 0.009994782503575729,
+          "ctr_change": -0.15857995726868063
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 3310.53,
+      "spend_prev": 4060.83,
+      "ctr_change": -0.15857995726868063
+    }
+  },
+  {
+    "campaign_name": "MEN COMF RTMAX LAUNCH",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 433.8,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN COMFORTMA LAUNCH",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 784.31,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN COMFORTMAX  AUNCH",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 536.17,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN COMFORTMAX LAUNCH",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -46.15%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 14.16493847772854,
+          "prev_mean": 26.30331263952657,
+          "pct_change": -0.4614770134730463
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 4351.66,
+      "spend_prev": 4056.8500000000004,
+      "ctr_change": -0.005977935842314496
+    }
+  },
+  {
+    "campaign_name": "MEN PREM-UM MODAL",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 470.42,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN PREMIUM -ODAL",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 69.39,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN PREMIUM MOD-L",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 668.65,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN PREMIUM MODAL",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 2605.8799999999997,
+      "spend_prev": 5829.460000000001,
+      "ctr_change": -0.03057032506650564
+    }
+  },
+  {
+    "campaign_name": "MEN SIGATURE SOFT",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 263.7,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN SIGNATUR  SOFT",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 259.51,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN SIGNATURE S-FT",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 689.37,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN SIGNATURE SOFT",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -37.83%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 1.4669244745617984,
+          "prev_mean": 2.3596749363146436,
+          "pct_change": -0.37833620539649954
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 5297.119999999999,
+      "spend_prev": 2649.19,
+      "ctr_change": -0.005355522471902796
+    }
+  },
+  {
+    "campaign_name": "MEN SIGNATURE SOT",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 375.57,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN Si nature Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 282.92,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN Sigature Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 782.58,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN Sign-ture Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 613.96,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN Signa-ure Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 653.05,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN Signatre Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 596.78,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN Signatu e Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 895.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN Signatue Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 891.09,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN Signature  oft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 761.92,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN Signature Sft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 435.57,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN Signature Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 7103.280000000001,
+      "spend_prev": 9515.7,
+      "ctr_change": -0.08738949030315278
+    }
+  },
+  {
+    "campaign_name": "MEN Signature Sot",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1245.63,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN Signature-Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 242.52,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN Sinature Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 427.61,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN | ATHLEISURE COOLING",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -65.71%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 13.231937074622165,
+          "prev_mean": 38.5930199712825,
+          "pct_change": -0.6571417037297071
+        }
+      },
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -18.45%",
+        "confidence": 0.8044594177725028,
+        "evidence": {
+          "ctr_last": 0.018872994047018976,
+          "ctr_prev": 0.023141698454699,
+          "ctr_change": -0.18445941777250283
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 3306.91,
+      "spend_prev": 3570.2900000000004,
+      "ctr_change": -0.18445941777250283
+    }
+  },
+  {
+    "campaign_name": "MEN | ATHLEISURECOOLING",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1031.07,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN-SIGNATURE SOFT",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1291.57,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN_ ignature_Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 97.57,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN_Si nature_Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 354.75,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN_Signa ure_Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 0.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN_Signatu e_Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 635.03,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN_Signature_S ft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 794.41,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MEN_Signature_Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -20.02%",
+        "confidence": 0.8202443674331835,
+        "evidence": {
+          "ctr_last": 0.013144405247269472,
+          "ctr_prev": 0.016435527193884032,
+          "ctr_change": -0.20024436743318347
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 2063.1,
+      "spend_prev": 5257.44,
+      "ctr_change": -0.20024436743318347
+    }
+  },
+  {
+    "campaign_name": "MEN| ATHLEISURE COOLING",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 456.94,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Me   Premium  Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 653.41,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Me  Premium Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 425.5,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Me- Premium Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 875.79,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Me- | Athleisure Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 529.16,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Me-_Bold_Colors_Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 590.81,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men   Athleisure Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 182.87,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men   old  Colors  Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 156.85,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  Bold  Colors  Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -55.16%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 1.649870591127711,
+          "prev_mean": 3.679402016839695,
+          "pct_change": -0.5515927359586525
+        }
+      },
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -30.09%",
+        "confidence": 0.9208733403582277,
+        "evidence": {
+          "ctr_last": 0.00834418398171275,
+          "ctr_prev": 0.01193515390596261,
+          "ctr_change": -0.30087334035822766
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 4693.2,
+      "spend_prev": 2748.5799999999995,
+      "ctr_change": -0.30087334035822766
+    }
+  },
+  {
+    "campaign_name": "Men  Bold  Coors  Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 359.02,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  C mfortMax  Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 940.72,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  C-mfortMax  Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 195.59,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  Co fortMax  Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 336.69,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  CofortMax  Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 241.81,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  Comf rtMax  Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 853.76,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  ComfortMa-  Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 711.98,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  ComfortMax  Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -12.61%",
+        "confidence": 0.7461499666234975,
+        "evidence": {
+          "ctr_last": 0.014455437616312928,
+          "ctr_prev": 0.01654224087697059,
+          "ctr_change": -0.12614996662349748
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 2626.4700000000003,
+      "spend_prev": 2005.07,
+      "ctr_change": -0.12614996662349748
+    }
+  },
+  {
+    "campaign_name": "Men  Premium  Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -29.55%",
+        "confidence": 0.9154717929869455,
+        "evidence": {
+          "ctr_last": 0.00909208907570845,
+          "ctr_prev": 0.012905216967433315,
+          "ctr_change": -0.2954717929869455
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 2471.26,
+      "spend_prev": 3238.37,
+      "ctr_change": -0.2954717929869455
+    }
+  },
+  {
+    "campaign_name": "Men  old  Colors  Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 246.1,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  remium  Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 862.97,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  remium Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 442.62,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  |  Athlei ure  Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 77.33,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  |  Athleisure  Co ling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 375.98,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  |  Athleisure  Coling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 455.41,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men  |  Athleisure  Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 3800.88,
+      "spend_prev": 3764.26,
+      "ctr_change": 0.10196737582455365
+    }
+  },
+  {
+    "campaign_name": "Men  |  Athleisure Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 184.86,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men -old Colors Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 326.71,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men -remium Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 301.88,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men -|  Athleisure  Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 0.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men B ld Colors Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 297.34,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men B-ld Colors Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 356.25,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Bol Colors Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 486.31,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Bold -olors Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 288.14,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Bold C-lors Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1080.38,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Bold Col-rs Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 58.25,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Bold Colo s Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 478.17,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Bold Colo-s Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 314.4,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Bold Color- Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 195.48,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Bold Colors  rop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 829.34,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Bold Colors Dr p",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 316.29,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Bold Colors Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -17.83%",
+        "confidence": 0.9982937783712671,
+        "evidence": {
+          "last_mean": 2.216913812545391,
+          "prev_mean": 2.697939670372048,
+          "pct_change": -0.1782937783712671
+        }
+      },
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -21.71%",
+        "confidence": 0.8371008526055569,
+        "evidence": {
+          "ctr_last": 0.007958642605945093,
+          "ctr_prev": 0.01016560415161136,
+          "ctr_change": -0.2171008526055569
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 8166.6900000000005,
+      "spend_prev": 5563.259999999999,
+      "ctr_change": -0.2171008526055569
+    }
+  },
+  {
+    "campaign_name": "Men Bold Colors-Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 330.67,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men BoldColors Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 907.97,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Comf-rtMax Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 2126.04,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Comfo tMax Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 685.57,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Comfo tmax Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 278.08,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men ComforMax Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 137.81,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Comfort-ax Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 170.95,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men ComfortMax L unch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 793.98,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men ComfortMax Lau-ch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 643.79,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men ComfortMax Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -46.56%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 4.365508886889417,
+          "prev_mean": 8.16841289841746,
+          "pct_change": -0.4655621671376641
+        }
+      },
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -11.79%",
+        "confidence": 0.7379494726415061,
+        "evidence": {
+          "ctr_last": 0.013999936763067414,
+          "ctr_prev": 0.015872035044231497,
+          "ctr_change": -0.11794947264150615
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 6172.5599999999995,
+      "spend_prev": 5583.080000000001,
+      "ctr_change": -0.11794947264150615
+    }
+  },
+  {
+    "campaign_name": "Men ComfortMax Lunch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 0.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men ComfortMax_Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 524.48,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Comfortma- Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 135.5,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Comfortmax Lau ch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 165.12,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Comfortmax Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -25.28%",
+        "confidence": 0.9528420483455272,
+        "evidence": {
+          "last_mean": 2.9478304015612347,
+          "prev_mean": 3.94539119243332,
+          "pct_change": -0.2528420483455273
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 4113.29,
+      "spend_prev": 4238.95,
+      "ctr_change": -0.08120885669926242
+    }
+  },
+  {
+    "campaign_name": "Men Comfortmax Lunch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 794.13,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Pr-mium Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 289.52,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Pre ium Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 215.29,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Prem um Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 477.73,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Premiu- Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 499.5,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Premium -odal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 542.42,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Premium M-dal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 840.63,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Premium Mod-l",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 486.73,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Premium Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -27.74%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 4.705765144402241,
+          "prev_mean": 6.512188268753014,
+          "pct_change": -0.27739110872162864
+        }
+      },
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -12.74%",
+        "confidence": 0.7473675438216574,
+        "evidence": {
+          "ctr_last": 0.009797405438482721,
+          "ctr_prev": 0.011227413668244238,
+          "ctr_change": -0.1273675438216574
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 6830.530000000001,
+      "spend_prev": 5442.32,
+      "ctr_change": -0.1273675438216574
+    }
+  },
+  {
+    "campaign_name": "Men Sig-ature Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 104.66,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Sigature Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 210.78,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men Signature Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 4919.240000000001,
+      "spend_prev": 2814.6899999999996,
+      "ctr_change": 0.21044810825690882
+    }
+  },
+  {
+    "campaign_name": "Men Signture Soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 86.57,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men remium Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 506.68,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men | Ath eisure Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 906.42,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men | Athlei ure Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 159.19,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men | Athlei-ure Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 143.57,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men | Athleis re Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 110.42,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men | Athleisur- Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 262.67,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men | Athleisure Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 5128.29,
+      "spend_prev": 6681.82,
+      "ctr_change": 0.006859994840157673
+    }
+  },
+  {
+    "campaign_name": "Men | thleisure Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 352.51,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men |Athleisure Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 188.72,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men- Premium  Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 176.92,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men-Athleisure Cooli-g",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 536.26,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men-Athleisure Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -54.40%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 9.40926769108312,
+          "prev_mean": 20.633378686505107,
+          "pct_change": -0.543978335560668
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 6322.210000000001,
+      "spend_prev": 4193.5,
+      "ctr_change": 0.16163309263089332
+    }
+  },
+  {
+    "campaign_name": "Men-Bold Colors Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1057.18,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men-Comfortmax Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 667.58,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men-Premium Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 317.65,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men-thleisure Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 899.8,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "MenComfortmax Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 927.85,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men_Bold_Co ors_Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 130.36,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men_Bold_Colors_Drop",
+    "hypotheses": [
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -10.99%",
+        "confidence": 0.7299027929853181,
+        "evidence": {
+          "ctr_last": 0.009076098924761522,
+          "ctr_prev": 0.010196750380899249,
+          "ctr_change": -0.10990279298531813
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 3032.95,
+      "spend_prev": 3188.8099999999995,
+      "ctr_change": -0.10990279298531813
+    }
+  },
+  {
+    "campaign_name": "Men_Co fortMax_Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 383.91,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men_Com-ortMax_Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 591.06,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men_Comf-rtMax_Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 0.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men_ComfortMax_Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -45.87%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 13.433765900813698,
+          "prev_mean": 24.81701061758331,
+          "pct_change": -0.45868718403358727
+        }
+      },
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -16.98%",
+        "confidence": 0.789763366936356,
+        "evidence": {
+          "ctr_last": 0.014470145932971313,
+          "ctr_prev": 0.017428941974456855,
+          "ctr_change": -0.16976336693635594
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 4578.34,
+      "spend_prev": 3325.7299999999996,
+      "ctr_change": -0.16976336693635594
+    }
+  },
+  {
+    "campaign_name": "Men_Premium_Modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1917.2500000000002,
+      "spend_prev": 4215.9,
+      "ctr_change": 0.29546122828616017
+    }
+  },
+  {
+    "campaign_name": "Men_|_Athleisure_Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 2912.6400000000003,
+      "spend_prev": 5283.54,
+      "ctr_change": 0.09067889232351951
+    }
+  },
+  {
+    "campaign_name": "Men_|_Athleiure_Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 478.33,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Men_|_Atleisure_Cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 668.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Mn ComfortMax Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 891.21,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "W MEN Cotton Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 753.63,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "W MEN FIT & LIFT",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1417.9,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "W men Fit & Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 269.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "W men Summer Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 718.49,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "W men-Studio Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 211.43,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "W-men  |  Studio  Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 706.5,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "W-men Fit & Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 245.65,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WMEN Cotton Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 445.32,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WMEN Seamless Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 138.86,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOEN  Cotton  Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 654.14,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOEN FIT & LIFT",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 503.28,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOM N FIT & LIFT",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 853.33,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOME SEAMLESS EVERYDAY",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 310.25,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN  -eamless  Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 128.41,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Cotto-  Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 186.23,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Cotton  Cl-ssics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 184.48,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Cotton  Cla-sics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 535.96,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Cotton  Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 2971.7799999999997,
+      "spend_prev": 6121.919999999999,
+      "ctr_change": 0.08904487375350487
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Seamles   Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 263.73,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Seamless  Eve yday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1155.47,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Seamless  Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 4212.01,
+      "spend_prev": 3388.0499999999997,
+      "ctr_change": 0.18981093926274678
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Seamless- Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 913.96,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN C tton Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1069.98,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN COTTON CLASS-CS",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 181.31,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN COTTON CLASSICS",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 4446.5199999999995,
+      "spend_prev": 5792.04,
+      "ctr_change": -0.09903594389103382
+    }
+  },
+  {
+    "campaign_name": "WOMEN COTTON CLASSIS",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 706.74,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN COTTON LASSICS",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 515.4,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN Cot-on Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1042.72,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN Coton Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1348.33,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN Cotton Cla-sics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 220.96,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN Cotton Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -27.77%",
+        "confidence": 0.9776928179789705,
+        "evidence": {
+          "last_mean": 9.133677603448906,
+          "prev_mean": 12.645142996045521,
+          "pct_change": -0.27769281797897055
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 7754.359999999999,
+      "spend_prev": 4078.0300000000007,
+      "ctr_change": 0.05269886406516181
+    }
+  },
+  {
+    "campaign_name": "WOMEN Cotton Classis",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 761.06,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN Ctton Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 463.56,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN FIT  LIFT",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 844.99,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN FIT & -IFT",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 780.13,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN FIT & LIFT",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -45.76%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 3.552666699401761,
+          "prev_mean": 6.549408220533066,
+          "pct_change": -0.4575591289726993
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 4233.04,
+      "spend_prev": 5865.66,
+      "ctr_change": -0.004973181425495152
+    }
+  },
+  {
+    "campaign_name": "WOMEN SEAM ESS EVERYDAY",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 991.33,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN SEAMLESS EV RYDAY",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 380.35,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN SEAMLESS EVE YDAY",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 219.04,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN SEAMLESS EVERYDAY",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -24.02%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 4.2680432584030985,
+          "prev_mean": 5.617035438906767,
+          "pct_change": -0.24016088111526313
+        }
+      },
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -26.91%",
+        "confidence": 0.8891455020333853,
+        "evidence": {
+          "ctr_last": 0.006906085059468164,
+          "ctr_prev": 0.009449329993627725,
+          "ctr_change": -0.2691455020333852
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 6289.389999999999,
+      "spend_prev": 2778.52,
+      "ctr_change": -0.2691455020333852
+    }
+  },
+  {
+    "campaign_name": "WOMEN SUMMER I VISIBLE",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 385.74,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN SUMMER INVISIBE",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 599.92,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN SUMMER INVISIBLE",
+    "hypotheses": [
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -33.28%",
+        "confidence": 0.9528195364171611,
+        "evidence": {
+          "ctr_last": 0.008391354607265193,
+          "ctr_prev": 0.012577339113052186,
+          "ctr_change": -0.33281953641716105
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 2642.42,
+      "spend_prev": 2477.3900000000003,
+      "ctr_change": -0.33281953641716105
+    }
+  },
+  {
+    "campaign_name": "WOMEN SUMMER INVSIBLE",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 459.81,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN Seamless E eryday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 133.85,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN Seamless Eeryday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 272.79,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN Seamless Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -33.49%",
+        "confidence": 0.9549074892905117,
+        "evidence": {
+          "ctr_last": 0.006834665441866149,
+          "ctr_prev": 0.010276263326860725,
+          "ctr_change": -0.3349074892905118
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 6853.919999999999,
+      "spend_prev": 5373.920000000001,
+      "ctr_change": -0.3349074892905118
+    }
+  },
+  {
+    "campaign_name": "WOMEN Seamless Everydy",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 153.97,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN Semless Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 276.93,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN eamless Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 112.03,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN otton Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 742.08,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN | STUDIO SPORTS",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -81.24%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 5.637602242625739,
+          "prev_mean": 30.05641153273037,
+          "pct_change": -0.8124326239910902
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 4067.0099999999998,
+      "spend_prev": 2513.46,
+      "ctr_change": -0.036467777629901305
+    }
+  },
+  {
+    "campaign_name": "WOMEN | SUDIO SPORTS",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 266.55,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN-FIT & LIFT",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 66.19,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMENSeamless Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 140.67,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN_Cot-on_Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 961.56,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN_Cotton_Clas ics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 225.92,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN_Cotton_Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -10.41%",
+        "confidence": 0.7241323834232078,
+        "evidence": {
+          "ctr_last": 0.009219267910634482,
+          "ctr_prev": 0.01029088209482858,
+          "ctr_change": -0.10413238342320787
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 4742.78,
+      "spend_prev": 4328.68,
+      "ctr_change": -0.10413238342320787
+    }
+  },
+  {
+    "campaign_name": "WOMEN_Seamless_Ever-day",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 194.91,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMEN_Seamless_Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -20.97%",
+        "confidence": 0.8296735380192796,
+        "evidence": {
+          "ctr_last": 0.007223499166612172,
+          "ctr_prev": 0.009139893099596005,
+          "ctr_change": -0.20967353801927963
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 3784.6099999999997,
+      "spend_prev": 4151.9400000000005,
+      "ctr_change": -0.20967353801927963
+    }
+  },
+  {
+    "campaign_name": "WOMEN_otton_Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 684.86,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMN Cotton Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 353.98,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WOMN_Cotton_Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 147.45,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Wmen | Studio Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 446.18,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Wmen_Fit_&_Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 318.24,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Wo en  Fit  &  Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 675.53,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Wo en Fit & Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 675.83,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Wo-en  |  Studio  Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 286.41,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Wo-en Fit & Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 536.69,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Woen Fit and Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 563.73,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Wom n  Fit  &  Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 553.99,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Wom n Fit & Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 656.5699999999999,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Wom n-Studio Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 0.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Wom-n Cotton Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 786.8,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Wom-n Fit & Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 772.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Wome  Fit & Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 355.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Wome  Fit and Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 644.36,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women  -it  &  Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 408.15,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women  Fit     Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 209.82,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women  Fit  &  Lft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 737.83,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women  Fit  &  Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -34.40%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 3.8592999887698745,
+          "prev_mean": 5.883332830802564,
+          "pct_change": -0.34402827443174866
+        }
+      },
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -16.30%",
+        "confidence": 0.7829663799216889,
+        "evidence": {
+          "ctr_last": 0.015853938805833613,
+          "ctr_prev": 0.01894062387519958,
+          "ctr_change": -0.16296637992168894
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 4793.920000000001,
+      "spend_prev": 3219.43,
+      "ctr_change": -0.16296637992168894
+    }
+  },
+  {
+    "campaign_name": "Women  it & Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 99.12,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women  |  Studio  Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -17.59%",
+        "confidence": 0.7958538512134604,
+        "evidence": {
+          "ctr_last": 0.00998627244995329,
+          "ctr_prev": 0.012117113743127697,
+          "ctr_change": -0.17585385121346048
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 3234.4299999999994,
+      "spend_prev": 3925.2799999999993,
+      "ctr_change": -0.17585385121346048
+    }
+  },
+  {
+    "campaign_name": "Women  |  Studio Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 237.6,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women -it & Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 874.6,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women C-tton Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 524.36,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Co-ton Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1327.09,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Cottn Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 408.47,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Cotton Clas ics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 415.23,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Cotton Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -26.73%",
+        "confidence": 0.9672571818944796,
+        "evidence": {
+          "last_mean": 16.567010764669305,
+          "prev_mean": 22.609584639491874,
+          "pct_change": -0.2672571818944796
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 3983.1899999999996,
+      "spend_prev": 3868.34,
+      "ctr_change": 0.086735016754868
+    }
+  },
+  {
+    "campaign_name": "Women Cotton Classis",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 767.78,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Cotton lassics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 557.64,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women F t & Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1002.51,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Fi  & Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 688.41,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Fit  Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 256.95,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Fit & Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -50.52%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 2.782791717903637,
+          "prev_mean": 5.62434643040514,
+          "pct_change": -0.5052239841832774
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 9616.66,
+      "spend_prev": 6277.04,
+      "ctr_change": 0.1981682690067781
+    }
+  },
+  {
+    "campaign_name": "Women Fit & ift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 703.44,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Fit and Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 3969.41,
+      "spend_prev": 4267.42,
+      "ctr_change": -0.03358961853566755
+    }
+  },
+  {
+    "campaign_name": "Women Fit& Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 552.64,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Se mless Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 669.78,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Seamless Eve yday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 285.28,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Seamless Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -11.26%",
+        "confidence": 0.7325811964527595,
+        "evidence": {
+          "ctr_last": 0.006680148635485771,
+          "ctr_prev": 0.007527616860680324,
+          "ctr_change": -0.1125811964527595
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 4456.46,
+      "spend_prev": 5130.59,
+      "ctr_change": -0.1125811964527595
+    }
+  },
+  {
+    "campaign_name": "Women Semless Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 445.09,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Sum er Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 220.86,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Summ-r Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 401.36,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Summer In-isible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 274.16,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Summer Invisi-le",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 412.7,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women Summer Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -15.73%",
+        "confidence": 0.7772944446867058,
+        "evidence": {
+          "ctr_last": 0.009657032106808345,
+          "ctr_prev": 0.011459556903612172,
+          "ctr_change": -0.15729444468670584
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 3500.85,
+      "spend_prev": 5160.12,
+      "ctr_change": -0.15729444468670584
+    }
+  },
+  {
+    "campaign_name": "Women it & Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 315.62,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women | Stu io Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1047.07,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women | Stu-io Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 287.58,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women | Studi Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 308.67,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women | Studio  ports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 467.77,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women | Studio Sp rts",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 973.58,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women | Studio Spo-ts",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 904.28,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women | Studio Spors",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 140.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women | Studio Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 5118.27,
+      "spend_prev": 6537.04,
+      "ctr_change": -0.01431984672824743
+    }
+  },
+  {
+    "campaign_name": "Women | tudio Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 250.76,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women-Stud o Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 503.67,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women-Studio -ports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 747.13,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women-Studio S orts",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 926.34,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women-Studio Spo-ts",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 135.29,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women-Studio Spors",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 284.19,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women-Studio Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -52.32%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 5.847085220506204,
+          "prev_mean": 12.26304148094199,
+          "pct_change": -0.523194532929179
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 5536.8099999999995,
+      "spend_prev": 4248.44,
+      "ctr_change": -0.0729482455534575
+    }
+  },
+  {
+    "campaign_name": "Women-Studio Spots",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 181.76,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women-Studio-Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 44.25,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WomenCotton Classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 146.48,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "WomenSeamless Everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 506.72,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women_-it_&_Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 674.61,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women_Fit_&_Lift",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -70.80%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 2.4536003616655515,
+          "prev_mean": 8.401898716198733,
+          "pct_change": -0.7079707283732166
+        }
+      },
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -22.70%",
+        "confidence": 0.8470153395188402,
+        "evidence": {
+          "ctr_last": 0.013251683588691535,
+          "ctr_prev": 0.017143527540970992,
+          "ctr_change": -0.22701533951884023
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 6165.96,
+      "spend_prev": 3271.35,
+      "ctr_change": -0.22701533951884023
+    }
+  },
+  {
+    "campaign_name": "Women_|-Studio_Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 376.82,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women_|_Studio_ ports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 180.61,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women_|_Studio_Spo ts",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 241.28,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "Women_|_Studio_Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -38.48%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 7.481453911725619,
+          "prev_mean": 12.161487667076022,
+          "pct_change": -0.384824117170757
+        }
+      },
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -20.03%",
+        "confidence": 0.8203106843109172,
+        "evidence": {
+          "ctr_last": 0.009391501635106086,
+          "ctr_prev": 0.011743938115922213,
+          "ctr_change": -0.2003106843109173
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 5906.589999999999,
+      "spend_prev": 5545.84,
+      "ctr_change": -0.2003106843109173
+    }
+  },
+  {
+    "campaign_name": "en comfortmax launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 272.53,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "en_ComfortMax_Launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 590.29,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "m n | athleisure cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1208.59,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "me bold colors drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 422.88,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "men bld colors drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 317.99,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "men bo-d colors drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 398.77,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "men bold clors drop",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 908.76,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "men bold colors drop",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -21.02%",
+        "confidence": 0.9101895914173067,
+        "evidence": {
+          "last_mean": 2.006402952741298,
+          "prev_mean": 2.540360232213142,
+          "pct_change": -0.2101895914173067
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 5041.24,
+      "spend_prev": 3760.5000000000005,
+      "ctr_change": -0.014941106717989566
+    }
+  },
+  {
+    "campaign_name": "men co fortmax launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 825.98,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "men comfor-max launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 0.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "men comfortmax launch",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -31.86%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 9.670855190361769,
+          "prev_mean": 14.191843787283066,
+          "pct_change": -0.31856245491187496
+        }
+      },
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -14.21%",
+        "confidence": 0.7620981305899982,
+        "evidence": {
+          "ctr_last": 0.01648062505391103,
+          "ctr_prev": 0.019210384991168342,
+          "ctr_change": -0.14209813058999823
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 4502.629999999999,
+      "spend_prev": 3472.7099999999996,
+      "ctr_change": -0.14209813058999823
+    }
+  },
+  {
+    "campaign_name": "men comfotmax launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 567.87,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "men omfortmax launch",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 377.81,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "men premium modal",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 2569.4700000000003,
+      "spend_prev": 3537.11,
+      "ctr_change": 0.02862375386871148
+    }
+  },
+  {
+    "campaign_name": "men s gnature soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 115.14,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "men sig ature soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 609.56,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "men signa ure soft",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 660.94,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "men signature soft",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -39.40%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 1.7592021741097004,
+          "prev_mean": 2.903075651802101,
+          "pct_change": -0.3940212431557935
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 6181.460000000001,
+      "spend_prev": 4143.43,
+      "ctr_change": -0.07952186743017721
+    }
+  },
+  {
+    "campaign_name": "men | athleisure cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -70.79%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 8.443623341002509,
+          "prev_mean": 28.90454810428077,
+          "pct_change": -0.7078790745578243
+        }
+      },
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -14.85%",
+        "confidence": 0.7684998278952513,
+        "evidence": {
+          "ctr_last": 0.018610837567971182,
+          "ctr_prev": 0.02185652842614055,
+          "ctr_change": -0.14849982789525132
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 6181.16,
+      "spend_prev": 3321.5299999999997,
+      "ctr_change": -0.14849982789525132
+    }
+  },
+  {
+    "campaign_name": "men | athlisure cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 0.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "mn | athleisure cooling",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 487.27,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "omen Summer Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 354.82,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "omen | Studio Sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 525.95,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "w men cotton classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 426.71,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "w men fit & lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 561.52,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "w-men cotton classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 441.24,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "wo en fit & lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 979.89,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "wo-en seamless everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 681.15,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "woen  Summer  Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 719.74,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "woen Summer Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 137.63,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "wom-n_Summer_Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 742.6,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "wome  Summer Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 774.25,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women  -ummer  Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 737.89,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women  Summ r  Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 613.95,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women  Summer  -nvisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 349.78,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women  Summer  Invi ible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 255.58,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women  Summer  Invisib e",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 544.2,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women  Summer  Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+        "reasoning": "CTR decreased by -11.97%",
+        "confidence": 0.7397283497289971,
+        "evidence": {
+          "ctr_last": 0.008853863474448864,
+          "ctr_prev": 0.010058103758597064,
+          "ctr_change": -0.11972834972899721
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 3806.3500000000004,
+      "spend_prev": 4071.34,
+      "ctr_change": -0.11972834972899721
+    }
+  },
+  {
+    "campaign_name": "women Su mer Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 168.94,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women Summ-r Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 516.72,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women Summer  nvisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1346.62,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women Summer In isible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 563.04,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women Summer In-isible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 122.63,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women Summer Inv-sible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 323.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women Summer Invi-ible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 751.71,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women Summer Invisble",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 703.95,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women Summer Invisi-le",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 299.45,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women Summer Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 8426.5,
+      "spend_prev": 9068.34,
+      "ctr_change": -0.027707888022772634
+    }
+  },
+  {
+    "campaign_name": "women c-tton classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 413.54,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women co ton classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 638.73,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women cott n classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 286.42,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women cotton clasics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 734.3,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women cotton classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 2751.01,
+      "spend_prev": 3987.87,
+      "ctr_change": -0.07287192050439031
+    }
+  },
+  {
+    "campaign_name": "women fit & ift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1140.82,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women fit & li t",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 0.0,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women fit & lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 3335.0299999999997,
+      "spend_prev": 3840.18,
+      "ctr_change": 0.34567300915646665
+    }
+  },
+  {
+    "campaign_name": "women fit-& lift",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 360.98,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women s amless everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1335.58,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women s-mmer invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 712.73,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women seam-ess everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 81.48,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women seamess everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 360.69,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women seaml-ss everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 281.15,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women seamless everday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1083.36,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women seamless everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "ROAS dropped significantly",
+        "reasoning": "ROAS decreased by -46.32%",
+        "confidence": 1.0,
+        "evidence": {
+          "last_mean": 4.506022282917403,
+          "prev_mean": 8.39453423055031,
+          "pct_change": -0.46321949978096316
+        }
+      }
+    ],
+    "metrics": {
+      "spend_last": 3298.75,
+      "spend_prev": 3375.4700000000003,
+      "ctr_change": 0.0620448242078552
+    }
+  },
+  {
+    "campaign_name": "women seamless-everyday",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 286.52,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women su-mer invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 307.57,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women summe- invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 252.85,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women summer in isible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 625.02,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women summer invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 6062.7699999999995,
+      "spend_prev": 4654.79,
+      "ctr_change": 0.22054811617803968
+    }
+  },
+  {
+    "campaign_name": "women | studio sp-rts",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 32.57,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women | studio spo ts",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 592.85,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women | studio sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 4864.509999999999,
+      "spend_prev": 4131.6,
+      "ctr_change": 0.0287147369779744
+    }
+  },
+  {
+    "campaign_name": "women | studio sprts",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1185.21,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women-| studio sports",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 740.52,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women_Summe _Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 1026.3,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women_Summer_Inisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 471.28,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women_Summer_Invisi-le",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 431.95,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "women_Summer_Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 2705.4500000000007,
+      "spend_prev": 4279.400000000001,
+      "ctr_change": 0.1902756725162563
+    }
+  },
+  {
+    "campaign_name": "womn  Summer  Invisible",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 327.93,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  },
+  {
+    "campaign_name": "womn cotton classics",
+    "hypotheses": [
+      {
+        "hypothesis": "Performance stable",
+        "reasoning": "No major ROAS or CTR changes",
+        "confidence": 0.5
+      }
+    ],
+    "metrics": {
+      "spend_last": 387.23,
+      "spend_prev": 0.0,
+      "ctr_change": 0.0
+    }
+  }
+]

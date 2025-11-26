@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 499.5,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "66385629-adc5-4c02-91c9-2e674650ec08",
+      "suggestion": "Limited time: hot, comfy, men. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['hot', 'comfy', 'men']"
+    },
+    {
+      "variant_id": "8debcacb-4848-4e71-a4cf-cad89bf0d5b2",
+      "suggestion": "Discover hot, comfy, men that fits you. Buy today",
+      "rationale": "Using top keywords: ['hot', 'comfy', 'men']"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "ROAS dropped significantly",
+      "reasoning": "ROAS decreased by -31.86%",
+      "confidence": 1.0,
+      "evidence": {
+        "last_mean": 9.670855190361769,
+        "prev_mean": 14.191843787283066,
+        "pct_change": -0.31856245491187496
+      }
+    },
+    {
+      "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+      "reasoning": "CTR decreased by -14.21%",
+      "confidence": 0.7620981305899982,
+      "evidence": {
+        "ctr_last": 0.01648062505391103,
+        "ctr_prev": 0.019210384991168342,
+        "ctr_change": -0.14209813058999823
+      }
+    }
+  ],
+  "metrics": {
+    "spend_last": 4502.629999999999,
+    "spend_prev": 3472.7099999999996,
+    "ctr_change": -0.14209813058999823
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "81640944-50c6-479f-a593-c7cc9ea19516",
+      "suggestion": "Limited time: men, that, soft. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['men', 'that', 'soft']"
+    },
+    {
+      "variant_id": "b4c0223c-80bd-423a-be78-9ddc35cba94c",
+      "suggestion": "Discover men, that, soft that fits you. Buy today",
+      "rationale": "Using top keywords: ['men', 'that', 'soft']"
+    }
+  ]
+}

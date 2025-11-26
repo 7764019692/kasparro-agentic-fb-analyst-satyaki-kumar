@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 780.13,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "e6938e00-d0a2-4429-8a75-ff979c265c92",
+      "suggestion": "Limited time: women, stretch, that. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['women', 'stretch', 'that']"
+    },
+    {
+      "variant_id": "6090d489-dbf6-4492-9617-5466522bdda0",
+      "suggestion": "Discover women, stretch, that that fits you. Buy today",
+      "rationale": "Using top keywords: ['women', 'stretch', 'that']"
+    }
+  ]
+}

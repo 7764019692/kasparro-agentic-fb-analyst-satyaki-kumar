@@ -1,0 +1,31 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "ROAS dropped significantly",
+      "reasoning": "ROAS decreased by -54.40%",
+      "confidence": 1.0,
+      "evidence": {
+        "last_mean": 9.40926769108312,
+        "prev_mean": 20.633378686505107,
+        "pct_change": -0.543978335560668
+      }
+    }
+  ],
+  "metrics": {
+    "spend_last": 6322.210000000001,
+    "spend_prev": 4193.5,
+    "ctr_change": 0.16163309263089332
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "cdb59221-0fa6-4bbd-9d04-d1724c660c79",
+      "suggestion": "Limited time: men, briefs, trunks. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['men', 'briefs', 'trunks']"
+    },
+    {
+      "variant_id": "5c155bca-078a-4e5b-9ff9-44b5b00b5a73",
+      "suggestion": "Discover men, briefs, trunks that fits you. Buy today",
+      "rationale": "Using top keywords: ['men', 'briefs', 'trunks']"
+    }
+  ]
+}

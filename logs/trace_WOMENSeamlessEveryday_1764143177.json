@@ -1,0 +1,31 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "ROAS dropped significantly",
+      "reasoning": "ROAS decreased by -46.32%",
+      "confidence": 1.0,
+      "evidence": {
+        "last_mean": 4.506022282917403,
+        "prev_mean": 8.39453423055031,
+        "pct_change": -0.46321949978096316
+      }
+    }
+  ],
+  "metrics": {
+    "spend_last": 3298.75,
+    "spend_prev": 3375.4700000000003,
+    "ctr_change": 0.0620448242078552
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "953b8d0d-2f63-4e5a-b827-252bddc46eff",
+      "suggestion": "Limited time: women, bras, boyshorts. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['women', 'bras', 'boyshorts']"
+    },
+    {
+      "variant_id": "0225dde4-2ab1-48b4-b571-c3b90d1af068",
+      "suggestion": "Discover women, bras, boyshorts that fits you. Buy today",
+      "rationale": "Using top keywords: ['women', 'bras', 'boyshorts']"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 4864.509999999999,
+    "spend_prev": 4131.6,
+    "ctr_change": 0.0287147369779744
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "3c0e5fa7-5970-468f-a198-972bf95a9e6c",
+      "suggestion": "Limited time: women, bras, panties. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['women', 'bras', 'panties']"
+    },
+    {
+      "variant_id": "f2a0e250-73a3-4959-a668-4740a9f93f38",
+      "suggestion": "Discover women, bras, panties that fits you. Buy today",
+      "rationale": "Using top keywords: ['women', 'bras', 'panties']"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "ROAS dropped significantly",
+      "reasoning": "ROAS decreased by -39.40%",
+      "confidence": 1.0,
+      "evidence": {
+        "last_mean": 1.7592021741097004,
+        "prev_mean": 2.903075651802101,
+        "pct_change": -0.3940212431557935
+      }
+    }
+  ],
+  "metrics": {
+    "spend_last": 6181.460000000001,
+    "spend_prev": 4143.43,
+    "ctr_change": -0.07952186743017721
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "def37a98-8055-4c64-8c01-94c917689725",
+      "suggestion": "Limited time: men, inner, vests. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['men', 'inner', 'vests']"
+    },
+    {
+      "variant_id": "901f3a6e-77f2-473b-9eb0-f9a66dd66697",
+      "suggestion": "Discover men, inner, vests that fits you. Buy today",
+      "rationale": "Using top keywords: ['men', 'inner', 'vests']"
+    }
+  ]
+}

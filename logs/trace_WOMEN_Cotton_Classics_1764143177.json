@@ -1,0 +1,31 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+      "reasoning": "CTR decreased by -10.41%",
+      "confidence": 0.7241323834232078,
+      "evidence": {
+        "ctr_last": 0.009219267910634482,
+        "ctr_prev": 0.01029088209482858,
+        "ctr_change": -0.10413238342320787
+      }
+    }
+  ],
+  "metrics": {
+    "spend_last": 4742.78,
+    "spend_prev": 4328.68,
+    "ctr_change": -0.10413238342320787
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "265060d3-c4bc-4ff4-b42c-a26b2b79a67f",
+      "suggestion": "Limited time: women, bras, sports. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['women', 'bras', 'sports']"
+    },
+    {
+      "variant_id": "8329e64b-a7ae-4fa6-9047-63d0911df433",
+      "suggestion": "Discover women, bras, sports that fits you. Buy today",
+      "rationale": "Using top keywords: ['women', 'bras', 'sports']"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 703.95,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "af989db2-8435-43f5-a6c8-39080e068e85",
+      "suggestion": "Limited time: ultra, soft, waistband. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['ultra', 'soft', 'waistband']"
+    },
+    {
+      "variant_id": "895e52df-388a-482f-a1ee-fdff08ccb948",
+      "suggestion": "Discover ultra, soft, waistband that fits you. Buy today",
+      "rationale": "Using top keywords: ['ultra', 'soft', 'waistband']"
+    }
+  ]
+}

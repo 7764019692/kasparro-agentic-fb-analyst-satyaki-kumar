@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 272.53,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "58223eb3-ddaf-41d7-b376-0613fe50fa5b",
+      "suggestion": "Limited time: all, day, comfort. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['all', 'day', 'comfort']"
+    },
+    {
+      "variant_id": "e941a912-6692-41a6-b98d-b4ffcbeab489",
+      "suggestion": "Discover all, day, comfort that fits you. Buy today",
+      "rationale": "Using top keywords: ['all', 'day', 'comfort']"
+    }
+  ]
+}

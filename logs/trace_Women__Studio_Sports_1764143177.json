@@ -1,0 +1,41 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "ROAS dropped significantly",
+      "reasoning": "ROAS decreased by -38.48%",
+      "confidence": 1.0,
+      "evidence": {
+        "last_mean": 7.481453911725619,
+        "prev_mean": 12.161487667076022,
+        "pct_change": -0.384824117170757
+      }
+    },
+    {
+      "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+      "reasoning": "CTR decreased by -20.03%",
+      "confidence": 0.8203106843109172,
+      "evidence": {
+        "ctr_last": 0.009391501635106086,
+        "ctr_prev": 0.011743938115922213,
+        "ctr_change": -0.2003106843109173
+      }
+    }
+  ],
+  "metrics": {
+    "spend_last": 5906.589999999999,
+    "spend_prev": 5545.84,
+    "ctr_change": -0.2003106843109173
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "7e516d37-183b-4cee-801e-5d5ce69d407c",
+      "suggestion": "Limited time: women, bras, wire. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['women', 'bras', 'wire']"
+    },
+    {
+      "variant_id": "9dd00164-0fe5-4abf-bc9e-3fa34d34ad7c",
+      "suggestion": "Discover women, bras, wire that fits you. Buy today",
+      "rationale": "Using top keywords: ['women', 'bras', 'wire']"
+    }
+  ]
+}

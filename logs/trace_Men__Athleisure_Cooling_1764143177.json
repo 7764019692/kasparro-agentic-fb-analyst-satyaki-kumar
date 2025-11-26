@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 2912.6400000000003,
+    "spend_prev": 5283.54,
+    "ctr_change": 0.09067889232351951
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "f8f69e31-3637-4bef-92c2-08d297978d71",
+      "suggestion": "Limited time: men, briefs, that. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['men', 'briefs', 'that']"
+    },
+    {
+      "variant_id": "d4970a10-f1d5-42e1-8b83-de6c8d2d9ab2",
+      "suggestion": "Discover men, briefs, that that fits you. Buy today",
+      "rationale": "Using top keywords: ['men', 'briefs', 'that']"
+    }
+  ]
+}

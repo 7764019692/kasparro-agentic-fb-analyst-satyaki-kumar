@@ -1,0 +1,31 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+      "reasoning": "CTR decreased by -10.99%",
+      "confidence": 0.7299027929853181,
+      "evidence": {
+        "ctr_last": 0.009076098924761522,
+        "ctr_prev": 0.010196750380899249,
+        "ctr_change": -0.10990279298531813
+      }
+    }
+  ],
+  "metrics": {
+    "spend_last": 3032.95,
+    "spend_prev": 3188.8099999999995,
+    "ctr_change": -0.10990279298531813
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "d3c4c9f3-b1d0-4c28-a6f3-93629b201881",
+      "suggestion": "Limited time: men, briefs, comfort. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['men', 'briefs', 'comfort']"
+    },
+    {
+      "variant_id": "7315e69d-7dcb-43f1-9565-198b3ad8ca0d",
+      "suggestion": "Discover men, briefs, comfort that fits you. Buy today",
+      "rationale": "Using top keywords: ['men', 'briefs', 'comfort']"
+    }
+  ]
+}

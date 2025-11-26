@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 2705.4500000000007,
+    "spend_prev": 4279.400000000001,
+    "ctr_change": 0.1902756725162563
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "3d12ff02-619a-4e68-8d1c-8c66e2ce664c",
+      "suggestion": "Limited time: women, bras, sports. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['women', 'bras', 'sports']"
+    },
+    {
+      "variant_id": "432f2b98-519a-4111-9e01-0152910e52f6",
+      "suggestion": "Discover women, bras, sports that fits you. Buy today",
+      "rationale": "Using top keywords: ['women', 'bras', 'sports']"
+    }
+  ]
+}

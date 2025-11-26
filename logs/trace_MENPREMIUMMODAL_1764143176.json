@@ -1,0 +1,41 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "ROAS dropped significantly",
+      "reasoning": "ROAS decreased by -27.74%",
+      "confidence": 1.0,
+      "evidence": {
+        "last_mean": 4.705765144402241,
+        "prev_mean": 6.512188268753014,
+        "pct_change": -0.27739110872162864
+      }
+    },
+    {
+      "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+      "reasoning": "CTR decreased by -12.74%",
+      "confidence": 0.7473675438216574,
+      "evidence": {
+        "ctr_last": 0.009797405438482721,
+        "ctr_prev": 0.011227413668244238,
+        "ctr_change": -0.1273675438216574
+      }
+    }
+  ],
+  "metrics": {
+    "spend_last": 6830.530000000001,
+    "spend_prev": 5442.32,
+    "ctr_change": -0.1273675438216574
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "c3cf2245-3d9b-4f0b-a027-d2c333197ad1",
+      "suggestion": "Limited time: men, briefs, inner. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['men', 'briefs', 'inner']"
+    },
+    {
+      "variant_id": "a673f186-1f4e-46f8-8c9a-ef05bc0ad09c",
+      "suggestion": "Discover men, briefs, inner that fits you. Buy today",
+      "rationale": "Using top keywords: ['men', 'briefs', 'inner']"
+    }
+  ]
+}

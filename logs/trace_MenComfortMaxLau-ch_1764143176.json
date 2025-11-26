@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 643.79,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "b9df8605-df57-400c-80cc-d696b4ad37eb",
+      "suggestion": "Limited time: soft, men, ultra. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['soft', 'men', 'ultra']"
+    },
+    {
+      "variant_id": "1a29f253-a798-4f2a-8fe6-8bb2d0d384ea",
+      "suggestion": "Discover soft, men, ultra that fits you. Buy today",
+      "rationale": "Using top keywords: ['soft', 'men', 'ultra']"
+    }
+  ]
+}

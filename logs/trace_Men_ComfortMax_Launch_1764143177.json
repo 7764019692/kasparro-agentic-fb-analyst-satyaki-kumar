@@ -1,0 +1,41 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "ROAS dropped significantly",
+      "reasoning": "ROAS decreased by -45.87%",
+      "confidence": 1.0,
+      "evidence": {
+        "last_mean": 13.433765900813698,
+        "prev_mean": 24.81701061758331,
+        "pct_change": -0.45868718403358727
+      }
+    },
+    {
+      "hypothesis": "CTR dropped \u2014 likely creative fatigue",
+      "reasoning": "CTR decreased by -16.98%",
+      "confidence": 0.789763366936356,
+      "evidence": {
+        "ctr_last": 0.014470145932971313,
+        "ctr_prev": 0.017428941974456855,
+        "ctr_change": -0.16976336693635594
+      }
+    }
+  ],
+  "metrics": {
+    "spend_last": 4578.34,
+    "spend_prev": 3325.7299999999996,
+    "ctr_change": -0.16976336693635594
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "4bdf963e-c130-43f1-9c9e-0e512be766a0",
+      "suggestion": "Limited time: men, briefs, our. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['men', 'briefs', 'our']"
+    },
+    {
+      "variant_id": "6321e66c-bf1a-49da-823c-8a6615853382",
+      "suggestion": "Discover men, briefs, our that fits you. Buy today",
+      "rationale": "Using top keywords: ['men', 'briefs', 'our']"
+    }
+  ]
+}

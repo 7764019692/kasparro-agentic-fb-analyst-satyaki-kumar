@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 2126.04,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "8e37bd96-4f28-4b14-937a-72a810333d40",
+      "suggestion": "Limited time: men, stretch, that. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['men', 'stretch', 'that']"
+    },
+    {
+      "variant_id": "a97e0fef-3f6a-41e9-82c0-9cc96c9e08c8",
+      "suggestion": "Discover men, stretch, that that fits you. Buy today",
+      "rationale": "Using top keywords: ['men', 'stretch', 'that']"
+    }
+  ]
+}

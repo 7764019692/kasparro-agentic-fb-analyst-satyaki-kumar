@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 906.42,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "77204afc-a7db-4a74-ac74-898052e311f0",
+      "suggestion": "Limited time: breathable, organic, cotton. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['breathable', 'organic', 'cotton']"
+    },
+    {
+      "variant_id": "2d87b40a-0eaf-4e50-975e-49468bb26bab",
+      "suggestion": "Discover breathable, organic, cotton that fits you. Buy today",
+      "rationale": "Using top keywords: ['breathable', 'organic', 'cotton']"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis": "Performance stable",
+      "reasoning": "No major ROAS or CTR changes",
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "spend_last": 653.05,
+    "spend_prev": 0.0,
+    "ctr_change": 0.0
+  },
+  "suggestions_sample": [
+    {
+      "variant_id": "9055bada-b356-402d-a729-3084fff21103",
+      "suggestion": "Limited time: breathable, microfiber, that. Shop now \u2014 Shop now!",
+      "rationale": "Using top keywords: ['breathable', 'microfiber', 'that']"
+    },
+    {
+      "variant_id": "a15530bd-8668-4d05-ab45-d3cdca21c7d0",
+      "suggestion": "Discover breathable, microfiber, that that fits you. Buy today",
+      "rationale": "Using top keywords: ['breathable', 'microfiber', 'that']"
+    }
+  ]
+}
